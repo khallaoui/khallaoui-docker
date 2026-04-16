@@ -1,0 +1,12 @@
+{
+  "name": "node-json-counter-docker-khallaoui",
+  "version": "1.0.0",
+  "description": "TP Docker Azure par Mohamed Khallaoui",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
